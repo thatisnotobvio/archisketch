@@ -20,7 +20,7 @@ Subject:
 
 Sky and background left completely blank white.
 
-Entire image black-and-white ink except {one named element}, rendered in {one named color} — the only color accent.
+Entire image black-and-white ink.
 
 Sketchbook, architectural-diary mood.
 
@@ -37,7 +37,7 @@ Subject: modern two-story cube-form house, three-quarter corner view at eye leve
 
 Upper volume: smooth white stucco box cantilevered over the ground floor, mostly line-only, minimal hatching.
 
-Ground floor: rough-textured plaster, dense cross-hatching, narrow windows behind wood louvered shutters. One small simplified human figure walks the sidewalk in the foreground for scale. Spiky cacti and desert shrubs line the house base in textured hatch marks. Paved sidewalk with light hatching and a curb line. Sky and background left completely blank white. Entire image black-and-white ink except the front door, rendered solid yellow — the only color accent. Sketchbook, architectural-diary mood.
+Ground floor: rough-textured plaster, dense cross-hatching, narrow windows behind wood louvered shutters. One small simplified human figure walks the sidewalk in the foreground for scale. Spiky cacti and desert shrubs line the house base in textured hatch marks. Paved sidewalk with light hatching and a curb line. Sky and background left completely blank white. Entire image black-and-white ink. Sketchbook, architectural-diary mood.
 
 Avoid: photorealism, full color, digital gradients, ruler-perfect lines, watermarks, extra color accents.
 ```
