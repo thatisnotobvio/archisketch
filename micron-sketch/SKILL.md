@@ -15,6 +15,7 @@ Faithfulness over decoration. Every prompt must be traceable back to what's actu
 - `references/composition-patterns.md` which framing/angle to choose based on what the photo shows, and the anti-repetition rule.
 - `references/prompt-template.md` the exact slot structure the final prompt must follow.
 - `references/qa-checklist.md` run this against your draft prompt before presenting it.
+- `examples/` Perform only low-frequency visual calibration and do not enter the default generation path. Do not copy the composition, objects, or annotations of these examples.
 
 Read all of these before drafting a prompt — they're short and the mistakes they prevent (skipping the color-accent rule, forgetting the blank sky, generic massing description) are the most common failure modes.
 
