@@ -15,8 +15,7 @@ Fixed across every output. Don't reinterpret or "improve" these per request — 
 - Smooth, flat, directly-lit surfaces (e.g. painted stucco in full sun) stay mostly line-only with minimal hatching, so they contrast against textured materials.
 
 ## Color
-- The entire image is monochrome black ink EXCEPT exactly one deliberate color accent (e.g. a single colored door). Only one element in the whole composition carries color.
-- Never zero color accents, never more than one.
+- The entire image is monochrome black ink.
 
 ## Mood
 - Light, airy, sketchbook / architectural-diary feel — reads as a quick on-site observational drawing, not a stiff technical rendering or a finished illustration.
@@ -26,4 +25,3 @@ Fixed across every output. Don't reinterpret or "improve" these per request — 
 - No smooth digital shading or gradients.
 - No visible ruler/vector-perfect lines.
 - No watermarks, signatures, or text overlays baked into the image.
-- No more than one color accent, ever.
